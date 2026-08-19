@@ -1,0 +1,21 @@
+Product,SKU,Store,Stock,Status,Category,Cost_Price,Selling_Price,Supplier
+Tata Salt,TAT-001,Mumbai,120,In Stock,FMCG,15,25,Tata Group
+Amul Butter,AMU-002,Delhi,85,In Stock,FMCG,35,55,Amul
+Parle Biscuits,PAR-003,Bangalore,200,In Stock,FMCG,10,20,Parle
+Nike Shoes,NIK-004,Chennai,45,In Stock,Footwear,2500,3999,Nike
+Puma T-shirt,PUM-005,Hyderabad,67,In Stock,Apparel,800,1299,Puma
+Titan Watch,TIT-006,Pune,23,Low Stock,Accessories,4500,6999,Titan
+Bajaj Fan,BAJ-007,Ahmedabad,5,Critical,Electronics,1200,1999,Bajaj
+Godrej Fridge,GOD-008,Kolkata,34,In Stock,Appliances,18000,25999,Godrej
+Whirlpool AC,WHI-009,Chennai,12,Critical,Appliances,28000,38900,Whirlpool
+Asian Paints,ASI-010,Mumbai,89,In Stock,Home,500,899,Asian Paints
+Patanjali Hair Oil,PAT-011,Delhi,156,In Stock,FMCG,80,150,Patanjali
+Dabur Honey,DAB-012,Bangalore,89,In Stock,FMCG,200,350,Dabur
+Haldiram Snacks,HAL-013,Hyderabad,234,In Stock,FMCG,50,100,Haldiram
+Britannia Bread,BRI-014,Chennai,167,In Stock,FMCG,25,45,Britannia
+Mother Dairy Milk,MOT-015,Delhi,89,In Stock,FMCG,40,70,Mother Dairy
+Raymond Suit,RAY-016,Mumbai,34,In Stock,Apparel,4000,6999,Raymond
+Peter England Shirt,PET-017,Bangalore,56,In Stock,Apparel,800,1299,Peter England
+Woodland Shoes,WOO-018,Hyderabad,23,Low Stock,Footwear,3000,4999,Woodland
+Bata Sandals,BAT-019,Chennai,45,In Stock,Footwear,1200,1999,Bata
+VIP Luggage,VIP-020,Ahmedabad,12,Critical,Accessories,2500,3999,VIP

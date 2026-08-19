@@ -1,0 +1,9 @@
+Product,SKU,Store,Stock,Status,Category,Cost_Price,Selling_Price,Supplier
+iPhone 15 Pro,IPH-001,NYC Flagship,45,In Stock,Electronics,85000,99900,Apple Inc
+MacBook Air,MAC-002,LA Tech Hub,23,Low Stock,Electronics,95000,119900,Apple Inc
+Samsung Galaxy,SAM-003,Chicago Downtown,67,In Stock,Electronics,72000,89900,Samsung
+Sony Headphones,SON-004,Austin,12,Critical,Electronics,18000,24900,Sony
+Dell Monitor,DEL-005,Seattle,34,In Stock,Electronics,28000,34900,Dell
+HP Laptop,HP-006,Boston,8,Critical,Electronics,62000,79900,HP
+Logitech Mouse,LOG-007,Miami,56,In Stock,Accessories,3500,4999,Logitech
+Kingston SSD,KIN-008,Denver,89,In Stock,Accessories,5500,7999,Kingston
